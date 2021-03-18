@@ -6,7 +6,7 @@
  * Plugin Name:       Poemhd Plugin
  * Plugin URI:        https://example.com/plugins/the-basics/
  * Description:       Handle the basics with this plugin.
- * Version:           1.10.3
+ * Version:           1.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Krithi Krishna
